@@ -2,7 +2,7 @@
 
 ### 🖥 Project
 ##### - [eatery](https://github.com/orgs/Zelusik/repositories) 약속 상황에 맞는 음식점을 제공하고, 사용자들이 작성한 음식점 리뷰들을 공유할 수 있는 모바일 앱 서비스
-##### - [pack-it](https://github.com/dnd-side-project/dnd-9th-8-frontend) 빈틈없는 여행을 위한 가이드라인 제공 서비스
+##### - [pack-it](https://github.com/orgs/PACKIT-Project/repositories) 빈틈없는 여행을 위한 가이드라인 제공 서비스
 ##### - [WineO'clocK](https://github.com/Wine-O-clocK) 와인입문자를 위한 와인 추천 웹서비스
 
 ### 📚 Activities
