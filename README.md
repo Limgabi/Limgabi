@@ -6,6 +6,7 @@
 ##### - [WineO'clocK](https://github.com/Wine-O-clocK) 와인입문자를 위한 와인 추천 웹서비스
 
 ### 📚 Activities
+##### - [Depromeet](https://www.depromeet.com/about) 개발자, 디자이너 연합 IT 동아리 (2025.01 ~ )
 ##### - [DND](https://www.dnd.ac/) 개발자, 디자이너 연합 IT 동아리 (2023.07 ~ 2023.08)
 ##### - [Central MakeUs Challenge](https://www.makeus.in/cmc) 기획자, 디자이너, 개발자 연합 수익형 앱 런칭 동아리 (2023.01 ~ 2023.03)
 ##### - [University MakeUs Challenge](https://www.makeus.in/umc) 앱 개발/런칭 대학 연합 동아리 (2022.03 ~ 2022.08)
