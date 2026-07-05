@@ -1,9 +1,10 @@
 ## ✨ 임가비
 
 ### 🖥 Project
+##### - [lokit](https://github.com/Team-Lokit/lokit-fe) 커플을 위한 프라이빗 추억 아카이빙 서비스
+##### - [ibe-lucky](https://github.com/Limgabi/iBe) 기념일 테마 기반 시즌형 웹 서비스
 ##### - [critix](https://github.com/depromeet/16th-team1-FE) 디자이너를 위한 AI 포트폴리오 피드백 서비스
 ##### - [eatery](https://github.com/orgs/Zelusik/repositories) 약속 상황에 맞는 음식점을 제공하고, 사용자들이 작성한 음식점 리뷰들을 공유할 수 있는 모바일 앱 서비스
-##### - [pack-it](https://github.com/orgs/PACKIT-Project/repositories) 빈틈없는 여행을 위한 가이드라인 제공 서비스
 
 ### 📚 Activities
 ##### - [Depromeet](https://www.depromeet.com/about) 개발자, 디자이너 연합 IT 동아리 (2025.01 ~ 2025.04)
